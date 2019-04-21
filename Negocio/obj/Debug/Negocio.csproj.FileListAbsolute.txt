@@ -1,0 +1,5 @@
+C:\Users\andre\Documents\visual estudio\Equipos\Negocio\bin\Debug\Negocio.dll
+C:\Users\andre\Documents\visual estudio\Equipos\Negocio\bin\Debug\Negocio.pdb
+C:\Users\andre\Documents\visual estudio\Equipos\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\andre\Documents\visual estudio\Equipos\Negocio\obj\Debug\Negocio.dll
+C:\Users\andre\Documents\visual estudio\Equipos\Negocio\obj\Debug\Negocio.pdb

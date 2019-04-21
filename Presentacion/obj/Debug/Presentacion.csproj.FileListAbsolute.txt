@@ -1,0 +1,16 @@
+C:\Users\andre\Documents\visual estudio\Equipos\Presentacion\bin\Debug\Presentacion.dll
+C:\Users\andre\Documents\visual estudio\Equipos\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\andre\Documents\visual estudio\Equipos\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\andre\Documents\visual estudio\Equipos\Presentacion\obj\Debug\Presentacion.CrearEqui.resources
+C:\Users\andre\Documents\visual estudio\Equipos\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\andre\Documents\visual estudio\Equipos\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\andre\Documents\visual estudio\Equipos\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\andre\Documents\visual estudio\Equipos\Presentacion\bin\Debug\Negocio.dll
+C:\Users\andre\Documents\visual estudio\Equipos\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\andre\Documents\visual estudio\Equipos\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\andre\Documents\visual estudio\Equipos\Presentacion\obj\Debug\Presentacion.Principal.resources
+C:\Users\andre\Documents\visual estudio\Equipos\Presentacion\obj\Debug\Presentacion.AgregarPartido.resources
+C:\Users\andre\Documents\visual estudio\Equipos\Presentacion\obj\Debug\Presentacion.InformacionEquipo.resources
+C:\Users\andre\Documents\visual estudio\Equipos\Presentacion\obj\Debug\Presentacion.ListaPartidos.resources
+C:\Users\andre\Documents\visual estudio\Equipos\Presentacion\obj\Debug\Presentacion.Resultados.resources
+C:\Users\andre\Documents\visual estudio\Equipos\Presentacion\obj\Debug\Presentacion.Targetas.resources

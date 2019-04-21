@@ -1,0 +1,12 @@
+C:\Users\andre\Documents\visual estudio\Equipos\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\andre\Documents\visual estudio\Equipos\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\andre\Documents\visual estudio\Equipos\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\andre\Documents\visual estudio\Equipos\WindowsFormsApplication1\bin\Debug\Presentacion.dll
+C:\Users\andre\Documents\visual estudio\Equipos\WindowsFormsApplication1\bin\Debug\Presentacion.pdb
+C:\Users\andre\Documents\visual estudio\Equipos\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\andre\Documents\visual estudio\Equipos\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\andre\Documents\visual estudio\Equipos\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\andre\Documents\visual estudio\Equipos\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\andre\Documents\visual estudio\Equipos\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\andre\Documents\visual estudio\Equipos\WindowsFormsApplication1\bin\Debug\Negocio.dll
+C:\Users\andre\Documents\visual estudio\Equipos\WindowsFormsApplication1\bin\Debug\Negocio.pdb

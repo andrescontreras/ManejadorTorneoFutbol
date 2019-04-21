@@ -1,0 +1,8 @@
+C:\Users\andre\Documents\visual estudio\Equipos\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\andre\Documents\visual estudio\Equipos\Prueba\bin\Debug\Prueba.exe
+C:\Users\andre\Documents\visual estudio\Equipos\Prueba\bin\Debug\Prueba.pdb
+C:\Users\andre\Documents\visual estudio\Equipos\Prueba\bin\Debug\Negocio.dll
+C:\Users\andre\Documents\visual estudio\Equipos\Prueba\bin\Debug\Negocio.pdb
+C:\Users\andre\Documents\visual estudio\Equipos\Prueba\obj\Debug\Prueba.csprojResolveAssemblyReference.cache
+C:\Users\andre\Documents\visual estudio\Equipos\Prueba\obj\Debug\Prueba.exe
+C:\Users\andre\Documents\visual estudio\Equipos\Prueba\obj\Debug\Prueba.pdb
